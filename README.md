@@ -1,39 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=John%20Macharia%20Mwangi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Cloud%20Architect&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="50%" style="stop-color:#4C1D95"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,140 C150,180 300,100 450,130 C600,160 750,110 900,140 L900,200 L0,200 Z" fill="#0d1117" opacity="0.6"/>
+  <text x="450" y="90" font-family="Segoe UI,sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">John Macharia Mwangi</text>
+  <text x="450" y="130" font-family="Segoe UI,sans-serif" font-size="16" fill="#c4b5fd" text-anchor="middle">Senior Software Engineer • AI &amp; Cloud Architect</text>
+</svg>
+</div>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Senior+Full-Stack+Engineer+%7C+5%2B+Years;AI+%2F+ML+Integration+Specialist;Cloud+Architect+%7C+AWS+%7C+GCP+%7C+Azure;98%25+Client+Satisfaction+%7C+Upwork+Top+Rated+%2B;Building+Scalable+Systems+that+Matter" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc._Computer_Science-University_of_Nairobi-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/First_Class_Honours-Dean's_List-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍_Nairobi,_Kenya-Kilimani-8B5CF6?style=flat-square" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=55&lines=Senior+Full-Stack+Engineer+%7C+5%2B+Years;AI+%2F+ML+Integration+Specialist;Cloud+Architect+%7C+AWS+%7C+GCP+%7C+Azure;98%25+Client+Satisfaction+%7C+Upwork+Top+Rated+%2B;Building+Scalable+Systems+that+Matter)](https://github.com/Yardie-World)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-mwangi-583334414" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Profile-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/john-mwangi-583334414" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yardiecoco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yardiecoco@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yardie-World" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Yardie--World-1F2937?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yardie-World&style=flat-square&color=7C3AED&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Yardie-World?style=flat-square&color=6D28D9&label=Followers&logo=github" />
-  <img src="https://img.shields.io/github/stars/Yardie-World?style=flat-square&color=8B5CF6&label=Stars&logo=github" />
-</p>
+<div align="center">
+
+![BSc](https://img.shields.io/badge/B.Sc%20Computer%20Science-University%20of%20Nairobi-6D28D9?style=flat-square&logoColor=white)
+![Honours](https://img.shields.io/badge/First%20Class%20Honours-Dean%27s%20List-7C3AED?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Nairobi%2C%20Kenya-Kilimani-8B5CF6?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-mwangi-583334414)
+[![Email](https://img.shields.io/badge/Gmail-yardiecoco%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yardiecoco@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Yardie--World-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yardie-World)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yardie-World&style=flat-square&color=7C3AED&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Work-22c55e?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-7C3AED?style=flat-square)
+
+</div>
 
 ---
 
@@ -384,16 +393,30 @@ Established a **Fiverr Pro-rated freelance practice** delivering 100+ successful
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yardie-World&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=6B7280&currStreakNum=E5E7EB&sideNums=E5E7EB" />
+  <img src="https://streak-stats.demolab.com/?user=Yardie-World&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=6B7280&currStreakNum=E5E7EB&sideNums=E5E7EB" />
 </p>
 
 ---
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yardie-World&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-</p>
+<div align="center">
+
+| 🏆 | ⭐ | 🎓 | 🔬 |
+|:---:|:---:|:---:|:---:|
+| **Top Rated Plus** | **5-Star Freelancer** | **First Class Honours** | **Research Award** |
+| Upwork 2024 | Fiverr Pro | University of Nairobi | AI Urban Services |
+
+</div>
+
+<div align="center">
+
+![trophy1](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-7C3AED?style=for-the-badge&logo=upwork&logoColor=white)
+![trophy2](https://img.shields.io/badge/Fiverr-5%20Star%20Pro-6D28D9?style=for-the-badge&logo=fiverr&logoColor=white)
+![trophy3](https://img.shields.io/badge/First%20Class%20Honours-Dean's%20List-8B5CF6?style=for-the-badge&logo=academia&logoColor=white)
+![trophy4](https://img.shields.io/badge/Toptal-Top%203%25%20Global-4C1D95?style=for-the-badge&logo=toptal&logoColor=white)
+
+</div>
 
 ---
 
@@ -407,13 +430,49 @@ Established a **Fiverr Pro-rated freelance practice** delivering 100+ successful
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yardie-World/Yardie-World/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yardie-World/Yardie-World/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yardie-World/Yardie-World/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+<div align="center">
+
+> **⚙️ One-time setup required** — see the HTML comment below in the raw README for the GitHub Action workflow. Once you run it, replace the badge below with the `<picture>` block that points to the generated SVGs.
+
+![snake](https://img.shields.io/badge/🐍%20Contribution%20Snake-Activate%20via%20GitHub%20Actions-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<!--
+  SNAKE SETUP — run this once and the animation appears above automatically.
+
+  1. Create .github/workflows/snake.yml in this repo with:
+
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+    push:
+      branches: [main]
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+      steps:
+        - name: Generate snake
+          uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: Yardie-World
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - name: Push to output branch
+          uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  2. Settings → Actions → General → Workflow permissions → Read and write → Save
+  3. Actions tab → Generate Snake Animation → Run workflow
+-->
 
 ---
 
@@ -458,23 +517,13 @@ john_mwangi:
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="mailto:yardiecoco@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yardiecoco@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/john-mwangi-583334414" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-john--mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yardie-World" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Yardie--World-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/john-mwangi-583334414" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Profile-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-yardiecoco%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yardiecoco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-mwangi-583334414)
+[![GitHub](https://img.shields.io/badge/GitHub-Yardie--World-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yardie-World)
+
+</div>
 
 ---
 
@@ -482,6 +531,16 @@ john_mwangi:
   <i>"The best software engineers don't just write code — they architect systems that outlast themselves and empower the people who depend on them."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=fadeIn" />
-</p>
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="50%" style="stop-color:#4C1D95"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 C150,20 300,100 450,60 C600,20 750,80 900,50 L900,0 L0,0 Z" fill="#0d1117" opacity="0.5"/>
+  <rect y="55" width="900" height="65" fill="url(#fg)"/>
+</svg>
+</div>
