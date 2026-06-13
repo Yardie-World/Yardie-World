@@ -428,54 +428,6 @@ Established a **Fiverr Pro-rated freelance practice** delivering 100+ successful
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> **⚙️ One-time setup required** — see the HTML comment below in the raw README for the GitHub Action workflow. Once you run it, replace the badge below with the `<picture>` block that points to the generated SVGs.
-
-![snake](https://img.shields.io/badge/🐍%20Contribution%20Snake-Activate%20via%20GitHub%20Actions-7C3AED?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<!--
-  SNAKE SETUP — run this once and the animation appears above automatically.
-
-  1. Create .github/workflows/snake.yml in this repo with:
-
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches: [main]
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-      steps:
-        - name: Generate snake
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: Yardie-World
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - name: Push to output branch
-          uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  2. Settings → Actions → General → Workflow permissions → Read and write → Save
-  3. Actions tab → Generate Snake Animation → Run workflow
--->
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
